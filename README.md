@@ -7,3 +7,7 @@ The payments book will make shopping very easy as customers will be able to pay 
 
 OUR LIVE LINK TO THE WEBSITE
 https://feesmanager.000webhostapp.com/
+
+OUR WORKING VIDEO SOLUTION
+
+https://drive.google.com/file/d/1KOBrzBDd3lLXBgQlvlIP3sFZ7ZLa8Yw2/view
