@@ -10,4 +10,6 @@ https://feesmanager.000webhostapp.com/
 
 OUR WORKING VIDEO SOLUTION
 
+https://mega.nz/file/P7JylJiY#nGoiDtXqH4j8ZlYCqbMct9ROXnEKbeFtZ2-aTsPUV5s
+OR
 https://drive.google.com/file/d/1KOBrzBDd3lLXBgQlvlIP3sFZ7ZLa8Yw2/view
