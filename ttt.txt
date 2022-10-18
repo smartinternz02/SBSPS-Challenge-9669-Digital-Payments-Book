@@ -1,0 +1,160 @@
+Array
+(
+    [pname] => honey
+    [price] => 60
+    [stock] => 40
+    [detail] => good product
+    [cmd] => register
+)
+Array
+(
+    [pimg] => Array
+        (
+            [name] => download (2).jpg
+            [type] => image/jpeg
+            [tmp_name] => /storage/ssd5/628/17638628/tmp/php8Uehfl
+            [error] => 0
+            [size] => 7091
+        )
+
+)
+Array
+(
+    [pname] => Betel leaf
+    [price] => 253
+    [stock] => 500
+    [detail] => Good quality
+    [cmd] => register
+)
+Array
+(
+    [pimg] => Array
+        (
+            [name] => Paan-benefits.jpg
+            [type] => image/jpeg
+            [tmp_name] => /storage/ssd5/628/17638628/tmp/phpTC7hcR
+            [error] => 0
+            [size] => 196937
+        )
+
+)
+Array
+(
+    [pname] => Black pepper
+    [price] => 40
+    [stock] => 50
+    [detail] => Good quality
+    [cmd] => register
+)
+Array
+(
+    [pimg] => Array
+        (
+            [name] => 268068-2_5-everest-powder-black-pepper.jpg
+            [type] => image/jpeg
+            [tmp_name] => /storage/ssd5/628/17638628/tmp/phpqXbbp9
+            [error] => 0
+            [size] => 29471
+        )
+
+)
+Array
+(
+    [pname] => Soybean
+    [price] => 40
+    [stock] => 80
+    [detail] => 250 gm
+    [cmd] => register
+)
+Array
+(
+    [pimg] => Array
+        (
+            [name] => 268068-2_5-everest-powder-black-pepper.jpg
+            [type] => image/jpeg
+            [tmp_name] => /storage/ssd5/628/17638628/tmp/phpTnIwE9
+            [error] => 0
+            [size] => 29471
+        )
+
+)
+Array
+(
+    [pname] => Soybean
+    [price] => 140
+    [stock] => 90
+    [detail] => 1 kg
+    [cmd] => register
+)
+Array
+(
+    [pimg] => Array
+        (
+            [name] => 268068-2_5-everest-powder-black-pepper.jpg
+            [type] => image/jpeg
+            [tmp_name] => /storage/ssd5/628/17638628/tmp/phppgOsHa
+            [error] => 0
+            [size] => 29471
+        )
+
+)
+Array
+(
+    [pname] => pen
+    [price] => 50
+    [stock] => 100
+    [detail] => good
+    [cmd] => register
+)
+Array
+(
+    [pimg] => Array
+        (
+            [name] => 61Zken0pXpL._SX466_.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp2\tmp\php999C.tmp
+            [error] => 0
+            [size] => 11333
+        )
+
+)
+Array
+(
+    [pname] => samadrit das
+    [email] => bvn@fg.com
+    [phn] => 7980372546
+    [cmd] => register
+)
+Array
+(
+)
+Array
+(
+    [pname] => tumpa das
+    [email] => ts@g.com
+    [phn] => 7980372546
+    [cmd] => register
+)
+Array
+(
+)
+Array
+(
+    [pname] => pen
+    [price] => 100
+    [stock] => 50
+    [detail] => good
+    [cmd] => register
+)
+Array
+(
+    [pimg] => Array
+        (
+            [name] => 61Zken0pXpL._SX466_.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp2\tmp\php9737.tmp
+            [error] => 0
+            [size] => 11333
+        )
+
+)
